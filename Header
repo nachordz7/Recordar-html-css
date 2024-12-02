@@ -1,0 +1,23 @@
+<!--HTML-->
+<header id="header">
+  <div class="logo">
+    <img src="URL" alt="Imagen logo">
+  </div>
+ </header>
+
+/* CSS */
+#header {
+  position: relative;
+  width: 100%; /* Asegura que el header ocupe todo el ancho */
+}
+
+.logo {
+  position: absolute;
+  top: 0;       /* Alinea el logo en la parte superior */
+  right: 0;     /* Alinea el logo a la derecha */
+  padding: 10px; /* Espaciado opcional para que no esté pegado a la esquina */
+}
+
+.logo img {
+  max-width: 100px; /* Ajusta el tamaño del logo según necesites */
+}
