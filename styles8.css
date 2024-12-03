@@ -1,0 +1,55 @@
+body{
+    background-color: #1b1b32;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    border-bottom: 2px solid blueviolet;
+    margin-right: 360px;
+    color: whitesmoke;
+}
+
+.image-container{
+    display: flex;
+    justify-content:space-around;
+    gap: 50px;
+    left: 20px;
+}
+
+.shoes{
+    width: 260px;
+    height: 300px;
+}
+
+p{
+    color: rgb(200, 200, 200);
+    font-family: math;
+    font-size: 15px;
+
+}
+
+#carrito{
+    border:  1px solid black ;
+    border-radius: 10px ;
+    background-color: forestgreen;
+    color: rgb(198, 195, 195);
+    width: 200px;
+    height: 50px;
+    font-style: italic;
+    cursor: pointer;
+}
+
+#carrito:hover{
+    background-color: darkgreen;
+}
+
+.texto{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;            
+    display: flex;            
+    flex-direction: column;   
+    align-items: center;      
+    text-align: center; 
+}
