@@ -1,0 +1,89 @@
+26. ¿Qué elemento de HTML crea un item en una lista?
+□ <p>
+□ <ul>
+□ <item>
+□ <li>  ✔ 
+
+27. ¿Cuál de los siguientes elementos de HTML se conoce como anchor?
+□ <a>  ✔ 
+□ <b>
+□ <anchor>
+
+28. ¿Cuál es la propiedad de CSS que sirve para cambiar la fuente?
+□ font
+□ font-family  ✔ 
+□ font-type
+□ serif
+
+29. ¿Qué etiqueta de HTML sirve para cambiar el título de la pestaña o ventana del navegador?
+□ <title>  ✔ 
+□ <head>
+□ <h1>
+□ <heading>
+
+30. Desde adentro hacia afuera, la tercer capa en el modelo de caja de CSS es
+□ Margen
+□ Relleno
+□ Borde  ✔ 
+□ Contenido
+
+31. ¿Cómo seleccionar todos los anchor dentro de un item de lista en CSS?
+□ li > a
+□ li a  ✔ 
+□ item anchor
+□ item > anchor
+
+32. ¿Cuál de los siguientes no es un elemento en bloque?
+□ <main>
+□ <div>
+□ <br>  ✔ 
+□ Todos son elementos en bloque
+
+33. ¿Cómo seleccionar todos los encabezados hasta el nivel 4 en CSS?
+□ h1 h2 h3 h4
+□ h1-h4
+□ h1 > h2 > h3 > h4
+□ h1, h2, h3, h4  ✔ 
+
+34. ¿Qué etiqueta usamos en HTML para marcar una celda de encabezado en una tabla?
+□ tr
+□ th  ✔ 
+□ td
+□ thead
+
+35. ¿Cuál es la manera correcta de darle dos clases: btn y btn-primary a un botón en HTML?
+□ <button class="btn btn-primary">  ✔ 
+□ <button class="btn" class="btn-primary">
+□ <button class="btn,btn-primary">
+□ <button class="btn&btn-primary">
+
+36. ¿Qué tipo de selector es el selector #name-input?
+□ De ID  ✔ 
+□ De clase
+□ De elemento
+□ De pseudoelemento
+37. ¿Cómo seleccionar un elemento li sólo si posee las clases menu y side-menu?
+□ li menu side-menu
+□ .menu.side-menu
+□ li .menu .side-menu
+□ li.menu.side-menu  ✔ 
+
+38. ¿Qué etiqueta se usa en HTML para declarar CSS de manera interna?
+□ <css>
+□ <script>
+□ <style>  ✔ 
+□ <link>
+
+39. ¿Cómo escribir comentarios en CSS?
+□ // comentario
+□ /* comentario */  ✔ 
+□ # comentario
+□ Todas son correctas
+
+40. ¿Qué propiedad de CSS sirve para hacer bordes “redondeados”?
+□ border-collapse
+□ border-round
+□ border-radius  ✔ 
+□ Ninguna de las anteriores 
+□ <href>
+
