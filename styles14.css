@@ -1,0 +1,28 @@
+body {
+    text-align: center;  /* Para centrar solo el h1 horizontalmente (opcional) */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .contenedor-boton {
+    display: flex;
+    justify-content: center; /* Centra el botón horizontalmente */
+    align-items: center;     /* Centra el botón verticalmente */
+    height: 60vh;            /* Controla la altura para centrar el botón en una parte de la pantalla */
+  }
+  
+  #carrito {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: forestgreen;
+    color: rgb(235, 160, 31);
+    width: 200px;
+    height: 50px;
+    font-style: italic;
+    cursor: pointer;
+  }
+  
+  #carrito:hover {
+    background-color: darkgreen;
+  }
+  
